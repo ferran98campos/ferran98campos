@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ferran98campos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ferran98campos&theme=vue-dark&hide_border=true)
+
 <!--
 **ferran98campos/ferran98campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
